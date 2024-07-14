@@ -1,0 +1,55 @@
+{
+    "常用推荐": {
+        "icon": "",
+        "data": [
+            {
+                "name": "哔哩哔哩",
+                "icon": "./assets/siteIcons/bilibili.png",
+                "url": "https://www.bilibili.com/",
+                "describe": "刷视频的"
+            },
+            {
+                "name": "silisili",
+                "icon": "./assets/siteIcons/silisili.png",
+                "url": "https://www.silisili.link/",
+                "describe": "追番的，输入“silisilinb”进入"
+            },
+            {
+                "name": "hifini",
+                "icon": "./assets/siteIcons/hifini.png",
+                "url": "https://www.hifini.com/",
+                "describe": "听歌的"
+            },
+            {
+                "name": "淘宝",
+                "icon": "./assets/siteIcons/taobao.png",
+                "url": "https://www.taobao.com/",
+                "describe": "购物的"
+            },
+            {
+                "name": "物流查询",
+                "icon": "./assets/siteIcons/17track.png",
+                "url": "https://www.17track.net/zh-cn",
+                "describe": "查快递的"
+            },
+            {
+                "name": "空投快传",
+                "icon": "https://assets.retiehe.com/ap-icon-192-3.png",
+                "url": "https://airportal.cn/",
+                "describe": ""
+            },
+            {
+                "name": "silisili发布页",
+                "icon": "./assets/siteIcons/github.png",
+                "url": "https://weibass.github.io/",
+                "describe": ""
+            },
+            {
+                "name": "项目地址",
+                "icon": "./assets/siteIcons/github.png",
+                "url": "https://github.com/hocat/hocat.github.io",
+                "describe": ""
+            }
+        ]
+    }
+}
