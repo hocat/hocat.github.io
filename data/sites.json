@@ -3,6 +3,18 @@
         "icon": "",
         "data": [
             {
+                "name": "Time",
+                "icon": "https://time.is/favicon.ico",
+                "url": "https://time.is/",
+                "describe": "看时间的"
+            },
+            {
+                "name": "geogebra",
+                "icon": "",
+                "url": "https://www.geogebra.org/classic?lang=zh_CN",
+                "describe": "刷视频的"
+            },
+            {
                 "name": "哔哩哔哩",
                 "icon": "./assets/siteIcons/bilibili.png",
                 "url": "https://www.bilibili.com/",
