@@ -41,7 +41,7 @@ html {
     width: 100vw;
     height: 100vh;
     /*background-image: url("https://api.miaomc.cn/image/get");*/
-    background-image: url("/assets/background1.jpg");
+    background-image: url("/assets/background1.webp");
     background-size: cover;
     z-index: -1;
 }
