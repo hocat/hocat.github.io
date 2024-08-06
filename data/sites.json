@@ -10,7 +10,7 @@
             },
             {
                 "name": "geogebra",
-                "icon": "",
+                "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/e4/29/a0e42939-6d22-1a7f-e40c-7f2c87a405d5/GeoGebraCalculatorSuite-0-0-1x_U007emarketing-0-7-0-85-220.png/320x0w.webp",
                 "url": "https://www.geogebra.org/classic?lang=zh_CN",
                 "describe": "画函数图像的"
             },
