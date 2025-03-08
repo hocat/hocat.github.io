@@ -64,8 +64,8 @@
             },
             {
                 "name": "test",
-                "icon": "",
-                "url": "",
+                "icon": "https://wxt.xkw.com/favicon.ico",
+                "url": "https://oauthproxy.xkw.com/oauth/ljzx/wxtgzt?token=64578c454452be1c40390eca361fb7221741239234",
                 "describe": ""
             }
         ]
